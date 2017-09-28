@@ -58,8 +58,15 @@ GPL의 너무나 가혹한 라이센스는 개발자와 그것을 이용하려�
 웨어가 무료로 제공될 필요는 없다.
 
 
+오픈 소스 이니셔티브
+
+일종의 캠페인으로, 1998 년 Jon "maddog"Hall , Larry Augustin , Eric S. Raymond , Bruce Perens 등 이 오픈 소스를 오픈 했다. 이 그룹 은 데비안 자유 소프트웨어 지침 (Debian Free Software Guidelines)을 기반으로 오픈 소스 소프트웨어에 대한 오픈 소스 정의 를 채택했다. 그들은 또한 운동을위한 청지기 조직으로 OSI (Open Source Initiative)를 설립했다. 그들은 용어 사용을 통제하기 위한 '오픈 소스' 라는 상표 를 확보하려는 시도에서 실패했다. 2009 년에 OSI는 일시적으로 캘리포니아 법인으로 운영이 중단되었으며, 이는 이전 연도의 세금 서류 관련 불만 때문인것이었다. 현재 상태는 다시 활동하고있다. 2012 년 OSI 이사 겸 Simon Phipps 사장의지도하에 OSI는 회원 중심의 거버넌스 구조로 전환하기 시작했다. OSI는 "정부가 인정한 비영리 자선 단체 및 비영리 단체 및 세계 각국의 교육 기관"을위한 제휴 회원 프로그램을 시작했다. 그 후, OSI는 개인 회원 프로그램을 발표 하고 많은 기업 후원자를 얻게되었다.
 
 
+자유 소프트웨어 운동과의 관계 
+
+
+현대 자유 소프트웨어 운동과 오픈 소스 이니셔티브는 유닉스 와 인터넷 자유 소프트웨어, 해커 문화 의 공통된 역사에서 태어 났지만 근본적인 목표와 철학은 다르다. 스톨만의 오픈소스는 “자유”에 포커싱한 반면 오픈 소스 이니셔티브는 자유 소프트웨어와 관련된 도덕적 대립 태도를 버리고 대신 실용적이고 비즈니스적인 오픈 소스 아이디어를 장려하기 위해 운영된다. 1999 년 초에 OSI의 공동 설립자 인 Perens 는 서로 다른 접근 방식 때문에 Stallman 's Free Software Foundation (FSF) 지지자 와 OSI 사이에서 발전하고 있던 "분열"에 반대했다. Perens는 OSI가 해커가 아닌 사람들을위한 FSF 원칙을 소개하기로했다. 스톨만은 OSI의 실용적인 초점과 중앙의 윤리적 인 명령을 고려한 것을 무시한 것에 대해 OSI를 예리하게 비난했다. 자신의 자유 소프트웨어 운동과 오픈 소스 이니셔티브를 철학적인 차이에도 불구하고 종종 실제 프로젝트에서는 함께 사용되기도 한다.
 
 
 출처
@@ -71,6 +78,8 @@ http://www.sciencetimes.co.kr/?news=%EC%9E%90%EC%9C%A0%C2%B7%EC%98%A4%ED%94%88%E
 https://wiki.kldp.org/HOWTO/html/Secure-Programs-HOWTO/history.html
 
 http://itnp.kr/roller/home/entry/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4_open_source_%EA%B0%9C%EC%9A%94
-j
+
+https://en.wikipedia.org/wiki/Open_Source_Initiative
+
 http://korea.gnu.org/documents/copyleft/osd-korean.html
 
